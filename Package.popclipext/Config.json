@@ -1,0 +1,4 @@
+{
+  "name": "TestPackage",
+  "JavaScript": "popclip.showText('Hello from test package');"
+}
